@@ -1,3 +1,7 @@
+#!name=ip
+#!desc=显示ip信息
+#!system=ios
+
 [Script]
 ip = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/kbskfy/1/main/ip.js,script-update-interval=0
 
