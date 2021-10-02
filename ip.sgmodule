@@ -3,7 +3,6 @@
 #!system=ios
 
 [Rule]
-
 DOMAIN,ip-api.com,DIRECT
 
 [Script]
