@@ -1,7 +1,6 @@
 #!name=ip
 #!desc=显示ip信息
 #!system=ios
-
 [Rule]
 DOMAIN,ip-api.com,DIRECT
 
