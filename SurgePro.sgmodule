@@ -1,0 +1,9 @@
+#!name=SurgePro
+#!desc= 可显示启动时间,点击刷新为重载配置
+#!system=ios
+
+[Panel]
+SurgePro_ ReloadProfile = script-name=SurgePro_ ReloadProfile,update-interval=1
+
+[Script]
+SurgePro_ ReloadProfile = type=generic,timeout=10,script-path= https://raw.githubusercontent.com/fishingworld/something/main/PanelScripts/surgepro_reloadprofile.js ,argument=icon=crown.fill&color=#f6c970
