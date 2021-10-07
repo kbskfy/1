@@ -1,0 +1,9 @@
+#!name=📽 𝑫𝒊𝒔𝒏𝒆𝒚+ 解锁检测
+#!desc=📽 𝑫𝒊𝒔𝒏𝒆𝒚+ 解锁检测
+#!system=ios
+
+[Panel]
+📽 𝑫𝒊𝒔𝒏𝒆𝒚+ 解锁检测 = script-name=📽 𝑫𝒊𝒔𝒏𝒆𝒚+ 解锁检测, title="📽 𝑫𝒊𝒔𝒏𝒆𝒚+ 解锁检测", update-interval=1
+
+[Script]
+📽 𝑫𝒊𝒔𝒏𝒆𝒚+ 解锁检测 = type=generic,script-path=https://raw.githubusercontent.com/love499520/mask_angel/master/Disney.js
